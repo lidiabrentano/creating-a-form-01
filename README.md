@@ -29,6 +29,6 @@ Projeto feito no curso Explorer da Rocketseat
 </br>
 - Online project: https://lidiabrentano.github.io/creating-a-form-01/
 </br>
-</br>
+
 -----
 <p align="center">By Lídia Brentano</p>
